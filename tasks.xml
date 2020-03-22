@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_231" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <int>1</int>
+   <object class="com.wojciech.Task">
+    <void property="description">
+     <string>My task to do</string>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="priority">
+     <string>Low</string>
+    </void>
+    <void property="progress">
+     <int>18</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
